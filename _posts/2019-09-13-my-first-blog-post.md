@@ -1,7 +1,7 @@
-#Women in STEM
+# Women in STEM
 
-##Creating a community
+## Creating a community
 
-##Supporting women in STEM
+## Supporting women in STEM
 
-##Women take a leap :dancer:
+## Women take a leap :dancer:
